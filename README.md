@@ -11,9 +11,3 @@ Bu proje, Dow Jones Industrial Average (DJIA) endeksindeki 30 hisse senedinden o
 - Genetik algoritma ile portföy ağırlıklarını optimize eder.
 - Klasik yöntemlerle benchmark portföyler oluşturur.
 - Performans metriklerini (Return, Risk, Sharpe, Max Drawdown, Diversification) hesaplar ve görselleştirir.
-
-## Kurulum
-1. **Gerekli Kütüphaneler**:  
-   Aşağıdaki komutla gerekli Python kütüphanelerini yükleyin:  
-   ```bash
-   pip install numpy pandas yfinance matplotlib seaborn scipy
